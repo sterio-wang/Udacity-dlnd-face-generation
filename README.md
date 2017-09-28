@@ -8,4 +8,4 @@ Udacity Project 5
 - Add dropout layer after leaky_relu activation function.
 - Add one-sided label smoothing in d_loss_real to prevent discriminator becoming to strong.
 - Run dis graph twice and gen 3 times to enhance generator effect.
-- Base hyperperameter change.
+- Basic hyperperameter changes.
